@@ -53,6 +53,9 @@ docker load -i <path to image tar file>
 | RUN_HOURS | Number of hours to Run  | Int |
 | POLL_FREQUENCY | Time in seconds between polling | Int |
 
+Example of where to find DIV and KEYWORD variables
+![example](https://github.com/jfarl/In-Stock-Notifier/assets/2223444/0c98a342-649a-4db0-b771-41e554222e8f)
+
 ### SMS Gateways by Provider
 | Provider | Gateway |
 | -------- | ------- |
