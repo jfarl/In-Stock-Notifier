@@ -1,0 +1,7 @@
+.dockerignore
+Dockerfile
+.git
+.gitignore
+README.md
+__pycache__
+Docker Container Import Configurations/
